@@ -65,3 +65,6 @@
 | 18:00 - 19:00 |           |           | WPM U Rz B322  |             |           |
 | 19:00 - 20:00 |           |           |  WPM U Rz B322 |             |           |
 | 20:00 - 21:00 |           |           |           |             |           |
+
+![image](https://github.com/mekay007/Stundenplan/assets/154843898/7f488048-5297-4de1-9030-7c942967e124)
+
