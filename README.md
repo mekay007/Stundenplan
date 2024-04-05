@@ -25,10 +25,10 @@
 | 11:00 - 12:00 |ENG F  B120|   SWE-U Ni B320       | SWE V Ni F303|   Arbeit          |  ET2 V    Wh B212           |
 | 12:00 - 13:00 | ITS V Go CE85|          |  THI-U    Dz B120          |             |            |
 | 13:00 - 14:00 | ITS V Go CE85|          |   THI-U    Dz B120         |             |          |
-| 14:00 - 15:00 |           |  ET2-U    Wh BE14         |WPM V Rz B322       |    ITS-PU  Bw F204         |           |
+| 14:00 - 15:00 |           |  ET2-U    Wh BE14         | WPM V Rz B322       |    ITS-PU  Bw F204         |           |
 | 15:00 - 16:00 |           |   ET2-U    Wh BE14        | WPM V Rz B322            |    ITS-PU  Bw F204         |           |
-| 16:00 - 17:00 |           |           |WPM U Rz B322 |             |  IRG-SL    Dz F103         |
-| 17:00 - 18:00 |           |          |    WPM U Rz B322 |             |   IRG-SL    Dz F103        |
+| 16:00 - 17:00 |           |           |WPM U Rz B322 |     IRG-SL    Dz F103         |         |
+| 17:00 - 18:00 |           |          |    WPM U Rz B322 |     IRG-SL    Dz F103         |          |
 | 18:00 - 19:00 |           |           |              |             |           |
 | 19:00 - 20:00 |           |           |            |             |           |
 | 20:00 - 21:00 |           |           |           |             |           |
@@ -41,7 +41,7 @@
 | 11:00 - 12:00 |    Arbeit       |   Arbeit        | SWE V Ni F303|     Arbeit        |     ET2 V    Wh B212        |
 | 12:00 - 13:00 | ITS V Go CE85|           | THI-U    Dz B120           |             |           |
 | 13:00 - 14:00 | ITS V Go CE85|           |  THI-U    Dz B120          |             |         |
-| 14:00 - 15:00 |           |  ET2-U    Wh BE14         |   SWE-P  Ni B315 / WPM V Rz B322               |   ITS-PU  Bw F204  |           |
+| 14:00 - 15:00 |           |  ET2-U    Wh BE14         |   SWE-P  Ni B315 / WPM V Rz B322       |   ITS-PU  Bw F204  |           |
 | 15:00 - 16:00 |           |  ET2-U    Wh BE14         | SWE-P     Ni B315 / WPM V Rz B322     |    ITS-PU  Bw F204         |           |
 | 16:00 - 17:00 |           |      |   SWE-P   Ni B315 /WPM U Rz B322 |  IRG-SL    Dz F103           |           |
 | 17:00 - 18:00 |           |        |   SWE-P   Ni B315 /WPM U  Rz B322 |   IRG-SL    Dz F103          |           |
