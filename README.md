@@ -6,8 +6,8 @@
 | 09:00 - 10:00 |   Arbeit        |   Arbeit        |THI V  Dz F303|   Arbeit          |      IRG-S    Hu CE85       |
 | 10:00 - 11:00 |   Arbeit      |  Arbeit         |SWE V Ni F303|     Arbeit        |     ET2 V    Wh B212        |
 | 11:00 - 12:00 |   Arbeit       |   Arbeit        | SWE V Ni F303|   Arbeit          |       ET2 V    Wh B212      |
-| 12:00 - 13:00 | ITS V Go CE85|           |  THI-U    Dz B120     |             |            |
-| 13:00 - 14:00 | ITS V Go CE85|           |    THI-U    Dz B120   |             |             |
+| 12:00 - 13:00 | ITS V Go CE85|     Arbeit      |  THI-U    Dz B120     |             |     Arbeit       |
+| 13:00 - 14:00 | ITS V Go CE85|      Arbeit     |    THI-U    Dz B120   |             |     Arbeit        |
 | 14:00 - 15:00 |           |   ET2-U    Wh BE14       |WPM V Rz B322          |    ITS-PU  Bw F204         |           |
 | 15:00 - 16:00 |           | ET2-U    Wh BE14      |   WPM V Rz B322         |    ITS-PU  Bw F204         |           |
 | 16:00 - 17:00 |           |           |WPM U Rz B322  |       IRG-SL    Dz F103      |           |
@@ -23,8 +23,8 @@
 | 09:00 - 10:00 |ENG F  B120|         |THI V  Dz F303|   Arbeit          |   IRG-S    Hu CE85            |
 | 10:00 - 11:00 |ENG F  B120|      SWE-U   Ni B320  |SWE V Ni F303|  Arbeit           | ET2 V    Wh B212            |
 | 11:00 - 12:00 |ENG F  B120|   SWE-U Ni B320       | SWE V Ni F303|   Arbeit          |  ET2 V    Wh B212           |
-| 12:00 - 13:00 | ITS V Go CE85|          |  THI-U    Dz B120          |             |            |
-| 13:00 - 14:00 | ITS V Go CE85|          |   THI-U    Dz B120         |             |          |
+| 12:00 - 13:00 | ITS V Go CE85|          |  THI-U    Dz B120          |  Arbeit           |            |
+| 13:00 - 14:00 | ITS V Go CE85|          |   THI-U    Dz B120         |      Arbeit       |          |
 | 14:00 - 15:00 |           |  ET2-U    Wh BE14         | WPM V Rz B322       |    ITS-PU  Bw F204         |           |
 | 15:00 - 16:00 |           |   ET2-U    Wh BE14        | WPM V Rz B322            |    ITS-PU  Bw F204         |           |
 | 16:00 - 17:00 |           |           |WPM U Rz B322 |     IRG-SL    Dz F103         |         |
@@ -39,8 +39,8 @@
 | 09:00 - 10:00 | Arbeit          |   Arbeit        |THI V  Dz F303|    Arbeit         |     IRG-S    Hu CE85     |
 | 10:00 - 11:00 |    Arbeit       |     Arbeit      |SWE V Ni F303|     Arbeit        |  ET2 V    Wh B212           |
 | 11:00 - 12:00 |    Arbeit       |   Arbeit        | SWE V Ni F303|     Arbeit        |     ET2 V    Wh B212        |
-| 12:00 - 13:00 | ITS V Go CE85|           | THI-U    Dz B120           |             |           |
-| 13:00 - 14:00 | ITS V Go CE85|           |  THI-U    Dz B120          |             |         |
+| 12:00 - 13:00 | ITS V Go CE85|    Arbeit       | THI-U    Dz B120           |      Arbeit       |           |
+| 13:00 - 14:00 | ITS V Go CE85|     Arbeit      |  THI-U    Dz B120          |       Arbeit      |         |
 | 14:00 - 15:00 |           |  ET2-U    Wh BE14 /  SWE-P  Ni B315         | WPM V Rz B322       |   ITS-PU  Bw F204  |           |
 | 15:00 - 16:00 |           |  ET2-U    Wh BE14/  SWE-P  Ni B315          | WPM V Rz B322     |    ITS-PU  Bw F204         |           |
 | 16:00 - 17:00 |           |     SWE-P  Ni B315    |   WPM U Rz B322 |  IRG-SL    Dz F103           |           |
@@ -56,8 +56,8 @@
 | 09:00 - 10:00 |ENG F  B120|           |THI V  Dz F303|     Arbeit        |     IRG-S    Hu CE85        |
 | 10:00 - 11:00 |ENG F  B120|  SWE-U Ni B320            |SWE V Ni F303|      Arbeit       | ET2 V    Wh B212       |
 | 11:00 - 12:00 |ENG F  B120|     SWE-U Ni B320         | SWE V Ni F303|     Arbeit        |    ET2 V    Wh B212         |
-| 12:00 - 13:00 | ITS V Go CE85|           |   THI-U    Dz B120         |             |          |
-| 13:00 - 14:00 | ITS V Go CE85|           |   THI-U    Dz B120         |             |          |
+| 12:00 - 13:00 | ITS V Go CE85|           |   THI-U    Dz B120         |      Arbeit       |          |
+| 13:00 - 14:00 | ITS V Go CE85|           |   THI-U    Dz B120         |       Arbeit      |          |
 | 14:00 - 15:00 |           |      ET2-U    Wh BE14     |   WPM V Rz B322 /  ET2 P  Wh B113         |     ITS-PU  Bw F204          |       |
 | 15:00 - 16:00 |           |      ET2-U    Wh BE14    |      WPM V Rz B322 /  ET2 P  Wh B113           |    ITS-PU  Bw F204           |        |
 | 16:00 - 17:00 |           |           |WPM U Rz B322 /  ET2 P  Wh B113  |    IRG-SL    Dz F103         |           |
